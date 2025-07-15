@@ -1,0 +1,1 @@
+console.log('Natural Mystic está funcionando.');
